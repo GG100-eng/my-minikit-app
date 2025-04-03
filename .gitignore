@@ -1,0 +1,25 @@
+k# Dependencies
+/node_modules
+
+# Next.js build output
+/.next/
+/out/
+
+# Production build files
+/build
+
+# Static site generator files
+.jekyll-cache/
+.jekyll-metadata
+
+# Temporary files
+*.log
+.DS_Store
+
+# Environment variables
+.env*
+!.env.example
+
+# IDE / Editor specific
+.vscode/
+*.swp
